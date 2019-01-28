@@ -3,11 +3,17 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Abe, these summaries do a good job of presenting the major model equations in the papers that you read, so thanks for reading and reacting to the feedback. It does appear that these model equations are a bit more "practical" in the sense that the provide model information on the LED output. I'm curious how this relates to electroluminesence and how you will tie those things together in your paper. It would be fine to focus on either the practical side or the more theoretical side. If you want to bring them together, that would be excellent.
+
+* Score: 20/20
+
 ## Assignment 2
 
 Abe, these are nice summaries of the articles that you read this week. They seem to have been at the right level of depth for you, but I feel like I'm missing the understanding of the modeling of LEDs. That is, for this project it would be good to know more about the physics of electroluminesence and how people make models of it. So, while you are doing a good job of reading appropriate articles and summarizing them, I think it will be important to dig a little into the mathematics surroduing models of LEDs and how those tie to what you are discussing.
 
-* Score: 16/20
+* Score: 18/20
 
 ## Assignment 1
 
