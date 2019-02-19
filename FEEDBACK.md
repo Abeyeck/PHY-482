@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 5
+
+Abe, excellent paper. The structure and writing are very good so far. Soldier on, good sir.
+
+* Score: 20/20
+
 ## Assignment 4
 
 Abe, this is an excellent start to your paper. I have two pieces of feedback that I'm hoping you can take forward into the next piece of work you complete. (1) In discusssing the models that you are using to describe the LEDs, make sure not to just describe the variables in the equations, but the relationships and underlying physics that gives rise to the model. You can do that conceptually without a ton of detail, but it's a key part to describing what you are doing. And (2) there's parts of your writeup that are a little less professionally written and parts that are a bit more. For example, the first two paragraphs are written well and at the right professional level, so try to model the rest of your writing on that level. Great job!
