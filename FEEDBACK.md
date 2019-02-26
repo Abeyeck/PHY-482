@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Abe, It appears you have a bit to finish yet before the paper is done. I am curious how you will complete it as the last section isn't outlined or written up and the middle section just kind of stops. The writing is good and organized, so I trust it will be completed well. But this update was a bit small to tell where you are going from last week.
+
+* Score: 18/20
+
 ## Assignment 5
 
 Abe, excellent paper. The structure and writing are very good so far. Soldier on, good sir.
